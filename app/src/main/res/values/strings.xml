@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShareActionExample</string>
+    <string name="actionShare">Share</string>
+</resources>
